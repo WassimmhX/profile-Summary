@@ -1,7 +1,11 @@
 # Professional Bio Generator
 
 A modern web application that helps users generate professional bios and summaries based on their personal information, skills, career history, and education.
+## Video Tutorial
 
+Watch the video tutorial for a walkthrough of the document management system:
+
+[Video Link](https://drive.google.com/file/d/1BkRtnL2tMcKDO-Famsj0jkVnx8WbH_pG/view?usp=drive_link)
 ## Features
 
 - Interactive form to input personal information
@@ -35,8 +39,8 @@ A modern web application that helps users generate professional bios and summari
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone profile-Summary
+cd profile-Summary
 ```
 
 2. Install frontend dependencies:
@@ -127,4 +131,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Ollama for providing the AI text generation capabilities
 - FastAPI for the robust backend framework
-- React and Tailwind CSS for the modern frontend implementation 
+- React and Tailwind CSS for the modern frontend implementation
+
+## Acknowledgments
+
+- Ollama for providing the AI text generation capabilities
+- FastAPI for the robust backend framework
+- React and Tailwind CSS for the modern frontend implementation
+
+## License
+
+This project is developped by Lost Programmers.
+## Contact
+wmaharsia@gmail.com
